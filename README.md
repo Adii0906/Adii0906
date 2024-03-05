@@ -26,7 +26,12 @@ Feel free to connect and explore the fascinating world of technology together! ð
 <p align="left"> <a href="https://twitter.com/Aditya" target="blank"><img src="https://img.shields.io/twitter/follow/Aditya?logo=twitter&style=for-the-badge" alt="Aditya" /></a> </p>
 
 <h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="python" width="35" height="40"/> </a> </a> <a 
+<p align="left">
+  <a href="https://python.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="python" width="35" height="40"/>
+  </a>
+</p>
+
 
 <h3 align="left">Frameworks and Tools:</h3>
 <p align="left"> 
@@ -34,7 +39,10 @@ Feel free to connect and explore the fascinating world of technology together! ð
     <img src="https://assets.website-files.com/5dc3b47dd69d3835ceffdae0/5e1f59f2824910cdec694be3_streamlit-logo-primary-col-dark%402x.png" alt="streamlit" width="40" height="40"/> 
   </a> 
 </p>
+
 # Badges 
+[![Holopin Badges 1](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://www.holopin.io/@adii0906)
+[![Holopin Badges 2](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://www.holopin.io/@adii0906)
 
 [![An image of @Adii0906 Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@adii0906#)](https://holopin.io/@adii0906)
 
