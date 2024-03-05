@@ -28,7 +28,7 @@ Feel free to connect and explore the fascinating world of technology together! ð
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://python.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="python" width="35" height="40"/>
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" width="40" height="40"/>
   </a>
 </p>
 
@@ -63,4 +63,6 @@ Feel free to connect and explore the fascinating world of technology together! ð
 <a href="https://github.com/Adii0906" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adii0906&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
-
+<a href="http://www.github.com/Adii0906">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Adii09067&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
