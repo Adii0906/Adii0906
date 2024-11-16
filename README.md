@@ -4,7 +4,7 @@
 
 ## About Me
 
-- Currently pursuing a diploma in Computer Science.
+- Currently pursuing a Diploma in Computer Science.
 - 🌱 I'm enthusiastic about working on Python projects and diving into the realms of Machine Learning and Artificial Intelligence.
 - 👯 Contributing to open source projects and making the world better through pull requests.
 - 💬 Ask me anything about Technology!
@@ -28,17 +28,33 @@ Feel free to connect and explore the fascinating world of technology together! �
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://python.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="python" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Java_logo.png" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/>
   </a>
 </p>
 
 
 <h3 align="left">Frameworks and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://assets.website-files.com/5dc3b47dd69d3835ceffdae0/5e1f59f2824910cdec694be3_streamlit-logo-primary-col-dark%402x.png" alt="streamlit" width="40" height="40"/> 
-  </a> 
+<p align="left">
+  <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://assets.website-files.com/5dc3b47dd69d3835ceffdae0/5e1f59f2824910cdec694be3_streamlit-logo-primary-col-dark%402x.png" alt="streamlit" width="40" height="40"/>
+  </a>
+  <a href="https://mistral.ai/" target="_blank" rel="noreferrer">
+    <img src="https://mistral.ai/logo.svg" alt="mistral" width="40" height="40"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+  </a>
 </p>
+
 
 # Badges 
 [![Holopin Badges 1](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://www.holopin.io/@adii0906)
