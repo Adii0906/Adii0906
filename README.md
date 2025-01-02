@@ -36,24 +36,31 @@ Feel free to connect and explore the fascinating world of technology together! ð
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/>
+  </a>
 </p>
 
 
 <h3 align="left">Frameworks and Tools:</h3>
 <p align="left">
-  <a href="https://www.streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://assets.website-files.com/5dc3b47dd69d3835ceffdae0/5e1f59f2824910cdec694be3_streamlit-logo-primary-col-dark%402x.png" alt="streamlit" width="40" height="40"/>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-col-dark.svg" alt="streamlit" width="40" height="40"/>
   </a>
   <a href="https://mistral.ai/" target="_blank" rel="noreferrer">
-    <img src="https://mistral.ai/logo.svg" alt="mistral" width="40" height="40"/>
+    <img src="https://mistral.ai/logo.svg" alt="mistral ai" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/>
+    <img src="https://numpy.org/images/logos/numpy_logo.svg" alt="numpy" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
   </a>
 </p>
+
 
 
 # Badges 
