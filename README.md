@@ -1,91 +1,29 @@
-# Hello, I'm Aditya! 👋
 
-![Animated Hello](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_starlight_07._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-j-458824313) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@spliots09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityagond1035@gmail.com) 
 
-## About Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Adii0906&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Adii0906&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adii0906&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- Currently pursuing a Diploma in Computer Science.
-- 🌱 I'm enthusiastic about working on Python projects and diving into the realms of Machine Learning and Artificial Intelligence.
-- 👯 Contributing to open source projects and making the world better through pull requests.
-- 💬 Ask me anything about Technology!
-- 📫 Reach me at: [spliots09@gmail.com](mailto:spliots09@gmail.com)
-- ⚡ Fun fact: I'm on an exciting journey, studying for a Diploma in Computer Science.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Adii0906&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Feel free to connect and explore the fascinating world of technology together! 🚀
-
-
-<a href="https://www.github.com/Adii0906" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/Adii0906?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Adii0906&label=Profile%20views&color=0e75b6&style=flat" alt="Adii0906" />
-</p>
-
-
-<p align="left"> <a href="https://twitter.com/Aditya" target="blank"><img src="https://img.shields.io/twitter/follow/Aditya?logo=twitter&style=for-the-badge" alt="Aditya" /></a> </p>
-
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <a href="https://python.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Java_logo.png" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/HTML5_logo_and_wordmark.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css" width="40" height="40"/>
-  </a>
-</p>
-
-
-<h3 align="left">Frameworks and Tools:</h3>
-<p align="left">
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-primary-col-dark.svg" alt="streamlit" width="40" height="40"/>
-  </a>
-  <a href="https://mistral.ai/" target="_blank" rel="noreferrer">
-    <img src="https://mistral.ai/logo.svg" alt="mistral ai" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://numpy.org/images/logos/numpy_logo.svg" alt="numpy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
-</p>
-
-
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Adii0906&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # Badges 
-[![Holopin Badges 1](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://www.holopin.io/@adii0906)
-[![Holopin Badges 2](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://www.holopin.io/@adii0906)
+[![Holopin Badges](https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=)](https://holopin.io/@adii0906)
+[![An image of @Adii0906's Holopin badges](https://holopin.io/api/user/board?user=adii0906)](https://holopin.io/@adii0906)
 
-[![An image of @Adii0906 Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@adii0906#)](https://holopin.io/@adii0906)
+---
+[![](https://visitcount.itsvg.in/api?id=Adii0906&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Adii0906&label=Profile%20views&color=0e75b6&style=flat" alt="Adii0906" /> </p>
 
-<b>My GitHub Stats</b>
+---
+[![](https://visitcount.itsvg.in/api?id=Adii0906&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<a href="http://www.github.com/Adii0906">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adii0906&show_icons=true&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Adii0906's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/Adii0906">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adii0906&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=22c55e&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-
-<a href="http://www.github.com/Adii0906">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Adii0906&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
-<a href="https://github.com/Adii0906" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adii0906&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
-<a href="http://www.github.com/Adii0906">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Adii09067&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
