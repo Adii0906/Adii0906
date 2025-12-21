@@ -1,33 +1,25 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I+am+Aditya+👋;Nice+to+meet+you+🙂" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi,+I+am+Aditya;Nice+to+meet+you;Learning.+Building.+Shipping." />
 </h1>
 
-<p align="center">
-  <i>Building things, breaking things, fixing things — repeat 🔁</i>
-</p>
-
----
-
 ## 👋 About Me
-Nice to meet you! 🙂  
+I'm a **_2nd-year Artificial Intelligence & Data Science student_** 🎓  
+**_exploring, learning, and building_** new things in tech 🚀
 
-I’m a **_2nd-year Artificial Intelligence & Data Science student_** who enjoys **_exploring, learning, and building_** new things in tech.
-
-Most of the time, I’m:
-- 🔍 **Exploring new technologies**
-- 🛠 **Building projects** (useful ones… and *sometimes boring ones that magically become useful later*)
-- 📚 **Learning by doing**, breaking stuff, fixing it, and learning again
-- 🚀 Building **OpenSourceHub**
-- 🌆 Based in **_Bangalore, India_**
-
-> **_“Yesterday the code worked. Today it doesn’t. Tomorrow? We’ll see.”_** 😄
+Most of the time, I'm:
+- 🔍 Exploring new technologies
+- 🛠️ **Building projects** (useful ones… and *sometimes boring ones that magically become useful later* ✨)
+- 📚 **Learning → Documenting → Building → Shipping**
+- 🌟 Building **OpenSourceHub**
+- 📍 Based in **_Bangalore, India**
 
 ---
 
-## 🚀 What I’m Currently Doing
-- 🔧 Building **LLM & RAG-based applications**
-- 🌱 Contributing to **open source**
-- 📚 Learning more about **LangChain, LLMs & AI tooling**
+## 🚀 What I'm Currently Doing
+- 🤖 Building **LLM & RAG-based applications** and other AI applications
+- 🧠 Learning **AI/ML** and exploring **Web3**
+- 🌐 Contributing to **open source**
+- 📖 Learning more about **LangChain, LLMs & AI tooling**
 - ✍️ Writing occasionally on **Medium**
 
 ---
@@ -45,7 +37,7 @@ Most of the time, I’m:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 🧠 AI / LLM Stack
-![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
@@ -75,9 +67,12 @@ Most of the time, I’m:
 
 ---
 
-## 🤝 Let’s Connect (dude moment 😄)
-**If you made it till here, congrats 🎉 — we should probably connect.**  
+## 🎖️ Holopin Badges
+[![Holopin Badges](https://holopin.io/api/user/board?user=adii0906)](https://holopin.io/@adii0906)
 
+---
+
+## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-j-458824313)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/_starlight_07._)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@spliots09)
