@@ -2,77 +2,79 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi,+I+am+Aditya;Nice+to+meet+you;Learning.+Building.+Shipping." />
 </h1>
 
-## 👋 About Me
-I'm a **_2nd-year Artificial Intelligence & Data Science student_** 🎓  
-**_exploring, learning, and building_** new things in tech 🚀
+## About Me
+I'm a **2nd-year Artificial Intelligence & Data Science student**  
+**exploring, learning, and building** new things in tech.
 
 Most of the time, I'm:
-- 🔍 Exploring new technologies
-- 🛠️ **Building projects** (useful ones… and *sometimes boring ones that magically become useful later* ✨)
-- 📚 **Learning → Documenting → Building → Shipping**
-- 🌟 Building **OpenSourceHub**
-- 📍 Based in **_Bangalore, India**
+- Exploring new technologies
+- **Building projects** (useful ones… and *sometimes boring ones that magically become useful later*)
+- **Learning → Documenting → Building → Shipping**
+- Building **OpenSourceHub**
+- Based in **Bangalore, India**
 
 ---
 
-## 🚀 What I'm Currently Doing
-- 🤖 Building **LLM & RAG-based applications** and other AI applications
-- 🧠 Learning **AI/ML** and exploring **Web3**
-- 🌐 Contributing to **open source**
-- 📖 Learning more about **LangChain, LLMs & AI tooling**
-- ✍️ Writing occasionally on **Medium**
+## What I'm Currently Doing
+- Building **LLM & RAG-based applications** and other AI applications
+- Learning **AI/ML** and exploring **Web3**
+- Contributing to **open source**
+- Learning more about **LangChain, LLMs & AI tooling**
+- Writing occasionally on **Medium**
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
-### 🚀 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🌐 Frontend
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🧠 AI / LLM Stack
+### AI / LLM Stack
 ![LangChain](https://img.shields.io/badge/LangChain-121011?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🌐 Frameworks & Tools
+### Frameworks & Tools
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### 📊 Data & Databases
+### Data & Databases
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Dev Tools
+### Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Adii0906&theme=dark&include_all_commits=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Adii0906&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adii0906&layout=compact&theme=dark)
 
 ---
 
-## 🎖️ Holopin Badges
+## Holopin Badges
 [![Holopin Badges](https://holopin.io/api/user/board?user=adii0906)](https://holopin.io/@adii0906)
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
+If you made it till here, you've officially scrolled enough — let's connect!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-j-458824313)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/_starlight_07._)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@spliots09)
