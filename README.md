@@ -10,7 +10,6 @@ Most of the time, I'm:
 - Exploring new technologies
 - **Building projects** (useful ones… and *sometimes boring ones that magically become useful later*)
 - **Learning → Documenting → Building → Shipping**
-- Building **OpenSourceHub**
 - Based in **Bangalore, India**
 
 ---
