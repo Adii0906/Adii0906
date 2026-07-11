@@ -43,25 +43,30 @@ ACCENT = "#22d3ee"
 #    ("bul", text)          -> green dot + light bullet
 #    ("gap",)               -> a little vertical space
 # ===========================================================================
-HOST = "aditya"   # shown as  aditya@github  in the header
+HOST = "Aditya"   # shown as  aditya@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "AI Developer  building LLM / RAG apps"),
-    ("kv", "Also", "Security Researcher  OSS Contributor"),
-    ("kv", "Edu", "B.E. AI & Data Science (2nd yr)"),
+    ("kv", "Now", "AI Developer • Building LLM, RAG & Agentic AI Applications"),
+    ("kv", "Also", "Security Researcher • OSS Contributor"),
+    ("kv", "Edu", "B.E. in AI & Data Science (2nd Year)"),
     ("kv", "Loc", "Bangalore, India"),
+
     ("gap",),
+
     ("sec", "Stack"),
     ("kv", "Languages", "Python, Java, C"),
-    ("kv", "AI / ML", "LangChain, LLMs, scikit-learn"),
+    ("kv", "AI / ML", "LangChain, LangGraph, LangSmith, RAG, Scikit-learn, TensorFlow"),
     ("kv", "Backend", "Django, FastAPI, Flask, Streamlit"),
     ("kv", "Data", "Pandas, NumPy, MySQL, MongoDB"),
+    ("kv", "Cloud", "AWS"),
     ("kv", "Tools", "Git, Docker, Linux"),
+
     ("gap",),
+
     ("sec", "Highlights"),
-    ("bul", "Ships LLM & RAG-powered applications"),
-    ("bul", "Learning  Documenting  Building  Shipping"),
+    ("bul", "Turning AI ideas into usable tools"),
+    ("bul", "Learning • Building • Shipping • Sharing"),
 ]
 
 
