@@ -1,0 +1,17 @@
+# Personal source photo(s) -- not part of the published profile
+WhatsApp Image*.jpeg
+source-photo.*
+source-prepped.png
+
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Template scaffolding -- kept locally, not part of the published profile
+PROMPT.md
+profile-README-template.md
+README (1).md
