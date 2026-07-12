@@ -10,7 +10,7 @@
 -->
 <table align="center">
   <tr>
-    <td valign="top"><img src="./avi-ascii.svg" width="400" alt="ASCII portrait of Aditya typing in like a terminal"></td>
+    <!-- <td valign="top"><img src="./avi-ascii.svg" width="400" alt="ASCII portrait of Aditya typing in like a terminal"></td> -->
     <td valign="top"><img src="./info-card.svg" width="411" alt="neofetch-style info card: role, stack, highlights"></td>
   </tr>
 </table>
