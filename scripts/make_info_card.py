@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 480, 376
+W, H = 540, 548
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -43,10 +43,12 @@ ACCENT = "#22d3ee"
 #    ("bul", text)          -> green dot + light bullet
 #    ("gap",)               -> a little vertical space
 # ===========================================================================
-HOST = "Aditya"   # shown as  aditya@github  in the header
+HOST = "Adiii"
+# shown as aditya@github in the header
 
 ROWS = [
     ("host",),
+
     ("kv", "Now", "AI Developer • Building LLM, RAG & Agentic AI Applications"),
     ("kv", "Also", "Security Researcher • OSS Contributor"),
     ("kv", "Edu", "B.E. in AI & Data Science (2nd Year)"),
@@ -56,9 +58,11 @@ ROWS = [
 
     ("sec", "Stack"),
     ("kv", "Languages", "Python, Java, C"),
-    ("kv", "AI / ML", "LangChain, LangGraph, LangSmith, RAG, Scikit-learn, TensorFlow"),
-    ("kv", "Backend", "Django, FastAPI, Flask, Streamlit"),
-    ("kv", "Data", "Pandas, NumPy, MySQL, MongoDB"),
+    ("kv", "Frameworks", "LangChain, LangGraph, LangSmith,"),
+    ("kv", "", "Scikit-learn, TensorFlow, Hugging Face"),
+    ("kv", "Backend", "FastAPI, Flask, Streamlit"),
+    ("kv", "Data", "Pandas, NumPy, MySQL, MongoDB,"),
+    ("kv", "", "Matplotlib, Seaborn, Plotly, OpenCV"),
     ("kv", "Cloud", "AWS"),
     ("kv", "Tools", "Git, Docker, Linux"),
 
@@ -66,7 +70,14 @@ ROWS = [
 
     ("sec", "Highlights"),
     ("bul", "Turning AI ideas into usable tools"),
-    ("bul", "Learning • Building • Shipping • Sharing"),
+    ("bul", "Learning • Documenting • Building • Shipping • Sharing"),
+
+    ("gap",),
+
+    ("sec", "A bit about me"),
+    ("bul", "Building AI apps & indie products"),
+    ("bul", "Travel • Explore • Gym"),
+    ("bul", "Favorite fictional character: Steve Harrington (Stranger Things)"),
 ]
 
 
@@ -135,6 +146,6 @@ for i, row in enumerate(ROWS):
 
 parts.append("</svg>")
 svg = "".join(parts)
-with open(OUT, "w") as f:
+with open(OUT, "w", encoding="utf-8") as f:
     f.write(svg)
 print("wrote", OUT, len(svg), "bytes;", W, "x", H, "content_bottom", round(y))
