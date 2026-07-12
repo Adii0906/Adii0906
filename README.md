@@ -1,5 +1,5 @@
-<h1 align="center">Aditya</h1>
-<p align="center">AI Developer&nbsp; ·&nbsp; Security Researcher&nbsp; ·&nbsp; Open Source Contributor</p>
+<h1 align="center"> Hello There I'm Aditya</h1>
+<p align="center">AI Developer&nbsp; ·&nbsp; Security Researche&nbsp; ·&nbsp; Open Source Contributor</p>
 
 <!--
   Widths chosen so the two panels render the SAME height (~417px) side by side:
