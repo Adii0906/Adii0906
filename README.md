@@ -1,5 +1,5 @@
 <h1 align="center"> Hello There I'm Aditya</h1>
-<p align="center">AI Developer&nbsp; ·&nbsp; Security Researche&nbsp; ·&nbsp; Open Source Contributor</p>
+<p align="center">AI Developer&nbsp; ·&nbsp; Security Researcher&nbsp; ·&nbsp; Open Source Contributor</p>
 
 <!--
   Widths chosen so the two panels render the SAME height (~417px) side by side:
@@ -26,5 +26,3 @@
   &nbsp;·&nbsp;
   <a href="https://www.instagram.com/introver_dev_x0r.exe">Instagram</a>
 </p>
-
-<p align="center"><sub>Portrait &amp; info card are static once generated. The contribution graph re-renders itself every day via GitHub Actions — no tokens, no paid services.</sub></p>
